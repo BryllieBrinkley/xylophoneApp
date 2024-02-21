@@ -9,6 +9,6 @@ To run this project, make sure you have Xcode on your machine and follow these s
 
 1. Clone the repository to your local machine.
 2. Open the project file in Xcode and click the "play" button in the Xcode toolbar... or use the keyboard shortcut Command-R.
-3. The project should build and run in the Xcode simulator or on a connected device.
+3. The project should be built successfully and run in the Xcode simulator or on a connected device.
 
 Written by Jibryll Brinkley
